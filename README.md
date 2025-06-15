@@ -9,8 +9,6 @@
   <img src="https://repobeats.axiom.co/api/embed/7ac5eab2201227aa7bfd9d3d931b22fd0959b577.svg" alt="Repobeats analytics image" />
 </p>
 
-<hr/>
-
 <h2 align="center">Features</h2>
 
 <ul align="center" style="list-style-position: inside; max-width: 600px; margin: auto;">
@@ -20,8 +18,6 @@
   <li>Generates the full custom keycard command string</li>
   <li>Copy generated command to clipboard with a simple key press</li>
 </ul>
-
-<hr/>
 
 <h2 align="center">Building the Project</h2>
 
