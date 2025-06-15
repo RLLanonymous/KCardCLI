@@ -11,7 +11,7 @@
 
 <h2 align="center">Features</h2>
 
-<ul align="center" style="list-style-position: inside; max-width: 600px; margin: auto;">
+<ul align="left" style="list-style-position: inside; max-width: 600px; margin: auto;">
   <li>Interactive UI for selecting card types and filling required fields</li>
   <li>Supports multiple card types: TaskForce, Management, Site02, MetalCase</li>
   <li>Validates input such as containment levels and permission colors</li>
@@ -44,3 +44,11 @@
 ![Capture d'écran 2025-06-15 181919](https://github.com/user-attachments/assets/4ffdfc68-750a-40de-9cda-811df12521da)
 ![Capture d'écran 2025-06-15 181939](https://github.com/user-attachments/assets/7fa5525e-1c55-4c6a-87bb-64961de0c925)
 ![Capture d'écran 2025-06-15 181959](https://github.com/user-attachments/assets/87e75ed0-6084-4298-bf40-126d6ed6373c)
+
+<h2 align="center">Powered By</h2>
+
+<ul align="left" style="list-style-position: inside; max-width: 600px; margin: auto;">
+  <li>Golang (https://go.dev/)</li>
+  <li>Bubble Tea (https://github.com/charmbracelet/bubbletea)</li>
+  <li>Lipgloss (https://github.com/charmbracelet/lipgloss)</li>
+</ul>
