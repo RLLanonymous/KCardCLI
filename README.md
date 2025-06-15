@@ -38,3 +38,9 @@
 <p align="center">
   If you don't want to build from source, you can find pre-built versions in the release tab.
 </p>
+
+<h2 align="center">Illustrations</h2>
+
+![Capture d'écran 2025-06-15 181919](https://github.com/user-attachments/assets/4ffdfc68-750a-40de-9cda-811df12521da)
+![Capture d'écran 2025-06-15 181939](https://github.com/user-attachments/assets/7fa5525e-1c55-4c6a-87bb-64961de0c925)
+![Capture d'écran 2025-06-15 181959](https://github.com/user-attachments/assets/87e75ed0-6084-4298-bf40-126d6ed6373c)
